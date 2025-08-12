@@ -1,2 +1,2 @@
 
-print("Hello world with trigger ")
+print("Hello world with trigger")
